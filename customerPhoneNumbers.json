@@ -1,0 +1,58 @@
+[
+	{
+		"type": "Home",
+		"phoneNumber": "1234",
+		"activate": true,
+		"customer": {
+			"customerId": 1
+		}
+	},
+	{
+		"type": "Mobile",
+		"phoneNumber": "2345",
+		"activate": true,
+		"customer": {
+			"customerId": 1
+		}
+	},
+	{
+		"type": "Work",
+		"phoneNumber": "5678",
+		"activate": false,
+		"customer": {
+			"customerId": 1
+		}
+	},
+	{
+		"type": "Emergency",
+		"phoneNumber": "7895",
+		"activate": false,
+		"customer": {
+			"customerId": 1
+		}
+	},
+	{
+		"type": "Home",
+		"phoneNumber": "2345",
+		"activate": true,
+		"customer": {
+			"customerId": 2
+		}
+	},
+	{
+		"type": "Mobile",
+		"phoneNumber": "3456",
+		"activate": false,
+		"customer": {
+			"customerId": 2
+		}
+	},
+	{
+		"type": "Work",
+		"phoneNumber": "9876",
+		"activate": false,
+		"customer": {
+			"customerId": 2
+		}
+	}
+]
